@@ -65,6 +65,12 @@ body {
 	border-color: #fff;
 	opacity: 0.9;
 }
+.registerbutton:visited {
+	background: #D3D3D3;
+	color: #fff;
+	border-color: #fff;
+	opacity: 0.9;
+}
 
 #map {
 	width: 940px;
